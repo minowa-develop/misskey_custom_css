@@ -1,0 +1,4 @@
+/* notice widget area */
+._panel[data-cy-mkw-notifications]{
+  height: 50em !important;
+}

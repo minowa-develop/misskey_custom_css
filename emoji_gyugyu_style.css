@@ -1,0 +1,25 @@
+/* emoji area size by note write */
+.xpAOc{
+  min-width: 60em !important;
+  min-height: 30em !important;
+}
+/* emoji area size by note */
+.omfetrab.w5{
+  min-width: 60em !important;
+  min-height: 20em !important;
+  resize: auto;
+  overflow: hidden;
+}
+/* emoji gyugyu style for note write */
+.omfetrab.asWindow>.emojis section>.body {
+  display: contents !important;
+}
+.omfetrab.asWindow>.emojis section>.body>.item {
+  aspect-ratio: unset !important;
+}
+/* emoji gyugyu style for common */
+.omfetrab>.emojis section>.body>.item {
+  width: unset !important;
+  height: unset !important;
+  contain: none !important;
+}
